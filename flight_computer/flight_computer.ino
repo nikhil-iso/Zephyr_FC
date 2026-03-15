@@ -22,10 +22,10 @@
 // -----------------------------
 // Pin definitions
 // -----------------------------
-const int PIN_ACCEL_X = A0;
+const int PIN_ACCEL_X = A2;
 const int PIN_ACCEL_Y = A1;
-const int PIN_ACCEL_Z = A2;
-const int PIN_BUTTON  = 2;
+const int PIN_ACCEL_Z = A0;
+const int PIN_BUTTON  = 10;
 
 // -----------------------------
 // BMP280 object
